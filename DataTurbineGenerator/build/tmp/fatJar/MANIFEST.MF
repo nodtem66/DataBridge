@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: DataturbineGenerator
+Implementation-Version: 0.1.3-alpha
+Main-Class: org.cardioart.dataturbine.MainThread
+
